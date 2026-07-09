@@ -80,3 +80,5 @@ purchase = Purchase(gateway1)
 gateway2 = Telpay()
 purchase = Purchase(gateway1)
 purchase.checkout()
+
+print('HI')
